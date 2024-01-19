@@ -1,7 +1,7 @@
 # Hi there
+### I am currently working as a frontend developer
 
-- I am currently working as a frontend developer
-- <p>📫 How to reach me <a href='https://t.me/moffun'>t.me/moffun</a></p>
+<p>📫 Reach me here: <a href='https://t.me/moffun'>t.me/moffun</a></p>
 
 [![MoffunW GitHub Streak](https://streak-stats.demolab.com?user=MoffunW&theme=github-light)](https://github.com/MoffunW)
 
